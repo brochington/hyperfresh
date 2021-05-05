@@ -1,0 +1,21 @@
+{
+    "name": "hyperfresh",
+    "displayName": "hyperfresh",
+    "description": "A VSCode theme that is Hyper and Fresh",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hyperfresh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hyperfresh-color-theme.json"
+            }
+        ]
+    }
+}
